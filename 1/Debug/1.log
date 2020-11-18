@@ -1,0 +1,5 @@
+﻿  1.cpp
+  Matrix.cpp
+  Vector.cpp
+  Generating Code...
+D:\Lab#1\lab2\labs2\1\Vector.cpp(96,3): error C2143:  syntax error: missing ';' before '}'
